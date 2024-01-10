@@ -6,6 +6,8 @@ app = Flask(__name__)
 # Create BME280 sensor instance
 #bme280 = BME280()
 
+#this is a test
+
 # Variables to store setpoints
 temperature_setpoint = None
 humidity_setpoint = None
